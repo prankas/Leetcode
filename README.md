@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2232-adding-spaces-to-a-string](https://github.com/prankas/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [3639-zero-array-transformation-i](https://github.com/prankas/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/prankas/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/prankas/Leetcode/tree/master/3647-zero-array-transformation-iii) |
@@ -31,4 +32,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3647-zero-array-transformation-iii](https://github.com/prankas/Leetcode/tree/master/3647-zero-array-transformation-iii) |
+## Two Pointers
+|  |
+| ------- |
+| [2232-adding-spaces-to-a-string](https://github.com/prankas/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+## String
+|  |
+| ------- |
+| [2232-adding-spaces-to-a-string](https://github.com/prankas/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2232-adding-spaces-to-a-string](https://github.com/prankas/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 <!---LeetCode Topics End-->
