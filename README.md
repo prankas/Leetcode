@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/prankas/Leetcode/tree/master/0744-network-delay-time) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/prankas/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3647-zero-array-transformation-iii](https://github.com/prankas/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Two Pointers
@@ -72,10 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/prankas/Leetcode/tree/master/0744-network-delay-time) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/prankas/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/prankas/Leetcode/tree/master/0744-network-delay-time) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/prankas/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -89,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/prankas/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+## Graph
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/prankas/Leetcode/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/prankas/Leetcode/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
