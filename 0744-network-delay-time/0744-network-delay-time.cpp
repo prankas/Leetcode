@@ -8,15 +8,16 @@ public:
         }
         vector<int> min_time(n+1,INT_MAX);
         min_time[0]=1;
+        min_time[k]=0;
         set<pair<int,int>> st;
         st.insert({0,k});
         while(!st.empty()){
             auto it=*st.begin();
             st.erase(it);
-            if(it.first>=min_time[it.second]) continue;
-            min_time[it.second]=it.first;
             for(auto i:graph[it.second]){
                 if(min_time[i.first]<=it.first+i.second) continue;
+                st.erase({min_time[i.first],i.first});
+                min_time[i.first]=it.first+i.second;
                 st.insert({it.first+i.second,i.first});
             }
         }
