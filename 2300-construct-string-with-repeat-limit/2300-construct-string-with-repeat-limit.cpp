@@ -1,49 +1,31 @@
 class Solution {
 public:
-    string repeatLimitedString(string s, int maxWidth) {
-        map<char,int> mp;
-        set<char> st;
-        for(auto i:s) mp[i]++,st.insert(i);
-        string ans="";
-        char curr,prev;
-        if(st.size()==1){
-            curr=*st.rbegin();
-            for(int i=1;i<=min(mp[curr],maxWidth);i++) ans+=curr;
-            return ans;
+    string repeatLimitedString(string s, int k) {
+        vector<int> freq(26, 0);
+        for (char c : s) freq[c - 'a']++;
+        
+        priority_queue<pair<char, int>> pq;
+        for (int i = 0; i < 26; i++) {
+            if (freq[i] > 0) pq.push({'a' + i, freq[i]});
         }
-        curr=*st.rbegin();
-        st.erase(curr);
-        prev=*st.rbegin();
-        st.erase(prev);
-        while(!st.empty()){
-            if(mp[curr]==0){
-                curr=prev;
-                prev=*st.rbegin();
-                st.erase(prev);
-            } else if(ans.length()>0){
-                mp[prev]--;
-                ans+=prev;
-            }
-            int p=mp[curr];
-            for(int i=1;i<=min(p,maxWidth);i++) ans+=curr,mp[curr]--;
-            if(mp[prev]==0 && st.size()>0){
-                prev=*st.rbegin();
-                st.erase(prev);
+        
+        string result;
+        while (!pq.empty()) {
+            auto [ch, count] = pq.top(); pq.pop();
+            int used = min(k, count);
+            result.append(used, ch);
+            count -= used;
+
+            if (count > 0) {
+                if (pq.empty()) break;
+                auto [nextCh, nextCount] = pq.top(); pq.pop();
+                result += nextCh;
+                nextCount--;
+
+                if (nextCount > 0) pq.push({nextCh, nextCount});
+                pq.push({ch, count});
             }
         }
-        while(mp[prev]>0 && mp[curr]>0){
-            if(ans.length()){
-                ans+=prev;
-                mp[prev]--;
-            }
-            int p=mp[curr];
-            for(int i=1;i<=min(p,maxWidth);i++) ans+=curr,mp[curr]--;
-        }
-        if(mp[curr]==0){
-            curr=prev;
-            int p=mp[curr];
-            for(int i=1;i<=min(p,maxWidth);i++) ans+=curr,mp[curr]--;
-        } 
-        return ans;
+        return result;
     }
 };
