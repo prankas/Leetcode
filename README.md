@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/prankas/Leetcode/tree/master/0068-text-justification) |
+| [0779-max-chunks-to-make-sorted-ii](https://github.com/prankas/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/prankas/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/prankas/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2232-adding-spaces-to-a-string](https://github.com/prankas/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0779-max-chunks-to-make-sorted-ii](https://github.com/prankas/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/prankas/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [2300-construct-string-with-repeat-limit](https://github.com/prankas/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/prankas/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0779-max-chunks-to-make-sorted-ii](https://github.com/prankas/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/prankas/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/prankas/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/prankas/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -126,9 +129,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0779-max-chunks-to-make-sorted-ii](https://github.com/prankas/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/prankas/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0779-max-chunks-to-make-sorted-ii](https://github.com/prankas/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/prankas/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 <!---LeetCode Topics End-->
