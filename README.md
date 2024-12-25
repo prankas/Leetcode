@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/prankas/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/prankas/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/prankas/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/prankas/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/prankas/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0744-network-delay-time](https://github.com/prankas/Leetcode/tree/master/0744-network-delay-time) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/prankas/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/prankas/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/prankas/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0744-network-delay-time](https://github.com/prankas/Leetcode/tree/master/0744-network-delay-time) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/prankas/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/prankas/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/prankas/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/prankas/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/prankas/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Sliding Window
