@@ -2,18 +2,17 @@ class Solution {
 public:
     using ll=long long;
     int findTargetSumWays(vector<int>& nums, int target) {
-        map<int,int> mp;
-        int n=nums.size();
-        mp[nums[0]]=1;
-        mp[-nums[0]]+=1;
-        for(int i=1;i<n;i++){
-            map<int,int> temp;
-            for(auto j:mp){
-                temp[j.first+nums[i]]+=j.second;
-                temp[j.first-nums[i]]+=j.second;
+        vector<int> dp(2001,0);
+        dp[nums[0]+1000]=1;
+        dp[-nums[0]+1000]+=1;
+        for(int i=1;i<nums.size();i++){
+            vector<int> temp(2001,0);
+            for(int j=0;j<=2000;j++){
+                if(j+nums[i]<=2000) temp[j+nums[i]]+=dp[j];
+                if(j-nums[i]>=0) temp[j-nums[i]]+=dp[j];
             }
-            mp=temp;
+            dp=temp;
         }
-        return mp[target];
+        return dp[target+1000];
     }
 };
