@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/prankas/Leetcode/tree/master/0494-target-sum) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/prankas/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/prankas/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1063-best-sightseeing-pair](https://github.com/prankas/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/prankas/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2232-adding-spaces-to-a-string](https://github.com/prankas/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/prankas/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/prankas/Leetcode/tree/master/0494-target-sum) |
+| [1063-best-sightseeing-pair](https://github.com/prankas/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/prankas/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Counting
 |  |
