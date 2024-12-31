@@ -2,7 +2,6 @@ class Solution {
 public:
     int mincostTickets(vector<int>& days, vector<int>& costs){
         days.push_back(500);
-        sort(days.begin(),days.end());
         vector<int> dp(days.size(),0);
         int n=days.size()-1;
         for(int i=n-1;i>=0;i--){
