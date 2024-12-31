@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/prankas/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/prankas/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/prankas/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1025-minimum-cost-for-tickets](https://github.com/prankas/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/prankas/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/prankas/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/prankas/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0494-target-sum](https://github.com/prankas/Leetcode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/prankas/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1025-minimum-cost-for-tickets](https://github.com/prankas/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/prankas/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/prankas/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/prankas/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
