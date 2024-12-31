@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1501-circle-and-rectangle-overlapping](https://github.com/prankas/Leetcode/tree/master/1501-circle-and-rectangle-overlapping) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/prankas/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Graph
 |  |
@@ -165,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/prankas/Leetcode/tree/master/0494-target-sum) |
+## Geometry
+|  |
+| ------- |
+| [1501-circle-and-rectangle-overlapping](https://github.com/prankas/Leetcode/tree/master/1501-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
