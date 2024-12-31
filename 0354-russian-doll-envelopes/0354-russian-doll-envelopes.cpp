@@ -67,7 +67,6 @@ public:
         }
         int ans=1;
         for(auto &i:mp) sort(i.second.begin(),i.second.end(),greater<int>());
-        for(auto i:mp[6]) cout<<i<<endl;
         map<int,int> mp1;
         for(auto i:mp){
             for(auto j:i.second){
