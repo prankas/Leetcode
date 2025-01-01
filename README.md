@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/prankas/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/prankas/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/prankas/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/prankas/Leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1025-minimum-cost-for-tickets](https://github.com/prankas/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/prankas/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/prankas/Leetcode/tree/master/1367-maximum-height-by-stacking-cuboids) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/prankas/Leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/prankas/Leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/prankas/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/prankas/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/prankas/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/prankas/Leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [3639-zero-array-transformation-i](https://github.com/prankas/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/prankas/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/prankas/Leetcode/tree/master/3647-zero-array-transformation-iii) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/prankas/Leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/prankas/Leetcode/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1733-maximum-number-of-visible-points](https://github.com/prankas/Leetcode/tree/master/1733-maximum-number-of-visible-points) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/prankas/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -196,4 +200,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/prankas/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/prankas/Leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+## Ordered Set
+|  |
+| ------- |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/prankas/Leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
+## Randomized
+|  |
+| ------- |
+| [0914-random-point-in-non-overlapping-rectangles](https://github.com/prankas/Leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 <!---LeetCode Topics End-->
