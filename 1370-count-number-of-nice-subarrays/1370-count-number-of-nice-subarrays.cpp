@@ -15,7 +15,6 @@ public:
                 while(i<n && nums[i]%2==0) i++,ans+=p;
                 p=1;
                 odd_count--;
-                //ans+=p;
                 i++;
             }
             j++;
