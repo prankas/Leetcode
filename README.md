@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/prankas/Leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1370-count-number-of-nice-subarrays](https://github.com/prankas/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/prankas/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [3639-zero-array-transformation-i](https://github.com/prankas/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/prankas/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/prankas/Leetcode/tree/master/3647-zero-array-transformation-iii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0068-text-justification](https://github.com/prankas/Leetcode/tree/master/0068-text-justification) |
 | [0299-bulls-and-cows](https://github.com/prankas/Leetcode/tree/master/0299-bulls-and-cows) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/prankas/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/prankas/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2232-adding-spaces-to-a-string](https://github.com/prankas/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/prankas/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
