@@ -11,10 +11,6 @@ public:
                 }
             }
         }
-        int m=0;
-        for(int i=1;i<=limit;i++){
-         m=max(dp[0][0][i],m);
-        }
-        return m;
+        return dp[0][0][limit];
     }
 };
