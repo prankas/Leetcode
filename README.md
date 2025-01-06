@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1733-maximum-number-of-visible-points](https://github.com/prankas/Leetcode/tree/master/1733-maximum-number-of-visible-points) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/prankas/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/prankas/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/prankas/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/prankas/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2232-adding-spaces-to-a-string](https://github.com/prankas/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prankas/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/prankas/Leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [1370-count-number-of-nice-subarrays](https://github.com/prankas/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/prankas/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/prankas/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/prankas/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3639-zero-array-transformation-i](https://github.com/prankas/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/prankas/Leetcode/tree/master/3643-zero-array-transformation-ii) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/prankas/Leetcode/tree/master/0299-bulls-and-cows) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/prankas/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/prankas/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/prankas/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/prankas/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2232-adding-spaces-to-a-string](https://github.com/prankas/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/prankas/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
