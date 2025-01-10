@@ -32,7 +32,7 @@ public:
                 if(grid[i][j]==1){
                     if(i-1>=0 && grid[i-1][j]==1) unionset(temp[i][j],temp[i-1][j]);
                     if(j-1>=0 && grid[i][j-1]==1) unionset(temp[i][j],temp[i][j-1]);
-                } //else parent[p]=-1;
+                } else parent[p-1]=-1;
             }
         }
         int ans=0;
@@ -47,16 +47,15 @@ public:
             for(int j=0;j<n;j++){
                 if(grid[i][j]==1) continue;
                 set<int> st;
-                if(i-1>=0 && grid[i-1][j]==1) st.insert(findpar(temp[i-1][j]));
-                if(j-1>=0 && grid[i][j-1]==1) st.insert(findpar(temp[i][j-1]));
-                if(i+1<n && grid[i+1][j]==1) st.insert(findpar(temp[i+1][j]));
-                if(j+1<n && grid[i][j+1]==1) st.insert(findpar(temp[i][j+1]));
-                int t=0;
+                if(i-1>=0) st.insert(findpar(temp[i-1][j]));
+                if(j-1>=0) st.insert(findpar(temp[i][j-1]));
+                if(i+1<n) st.insert(findpar(temp[i+1][j]));
+                if(j+1<n) st.insert(findpar(temp[i][j+1]));
+                int t=1;
                 for(auto k:st){
-                    //cout<<k<<endl;
                     t+=mp[k];
                 }
-                ans=max(ans,t+1); 
+                ans=max(ans,t); 
             }
         }
         return ans;
