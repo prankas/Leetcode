@@ -47,10 +47,10 @@ public:
             for(int j=0;j<n;j++){
                 if(grid[i][j]==1) continue;
                 set<int> st;
-                if(i-1>=0) st.insert(findpar(temp[i-1][j]));
-                if(j-1>=0) st.insert(findpar(temp[i][j-1]));
-                if(i+1<n) st.insert(findpar(temp[i+1][j]));
-                if(j+1<n) st.insert(findpar(temp[i][j+1]));
+                if(i-1>=0) st.insert(parent[temp[i-1][j]]);
+                if(j-1>=0) st.insert(parent[temp[i][j-1]]);
+                if(i+1<n) st.insert(parent[temp[i+1][j]]);
+                if(j+1<n) st.insert(parent[temp[i][j+1]]);
                 int t=1;
                 for(auto k:st){
                     t+=mp[k];
