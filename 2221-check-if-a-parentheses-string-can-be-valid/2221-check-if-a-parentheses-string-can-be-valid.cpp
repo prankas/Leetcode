@@ -1,19 +1,42 @@
 class Solution {
 public:
     bool canBeValid(string s, string locked) {
-        int n=s.length();
-        if(n%2) return 0;
-        vector<vector<int>> dp(n+1,vector<int> (2,0));
-        for(int i=n-1;i>=0;i--){
-            if(locked[i]=='0'){
-              dp[i][0]=max(0,dp[i+1][0]-1);
-              dp[i][1]=dp[i+1][1]-1;
-            } else{
-                if(s[i]=='(')  dp[i][0]=max(0,dp[i+1][0]-1),dp[i][1]=dp[i+1][1]+1;
-                else dp[i][0]=dp[i+1][0]+1,dp[i][1],dp[i][1]=dp[i+1][1]-1;
-                if(dp[i][1]>0) return 0;    
+        int length = s.size();
+        // If length of string is odd, return false.
+        if (length % 2 == 1) {
+            return false;
+        }
+
+        stack<int> openBrackets, unlocked;
+
+        // Iterate through the string to handle '(' and ')'
+        for (int i = 0; i < length; i++) {
+            if (locked[i] == '0') {
+                unlocked.push(i);
+            } else if (s[i] == '(') {
+                openBrackets.push(i);
+            } else if (s[i] == ')') {
+                if (!openBrackets.empty()) {
+                    openBrackets.pop();
+                } else if (!unlocked.empty()) {
+                    unlocked.pop();
+                } else {
+                    return false;
+                }
             }
         }
-        return (dp[0][0]==0);
+
+        // Match remaining open brackets with unlocked characters
+        while (!openBrackets.empty() && !unlocked.empty() &&
+               openBrackets.top() < unlocked.top()) {
+            openBrackets.pop();
+            unlocked.pop();
+        }
+
+        if (!openBrackets.empty()) {
+            return false;
+        }
+
+        return true;
     }
 };
