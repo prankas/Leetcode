@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/prankas/Leetcode/tree/master/0148-sort-list) |
 | [0324-wiggle-sort-ii](https://github.com/prankas/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0354-russian-doll-envelopes](https://github.com/prankas/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prankas/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/prankas/Leetcode/tree/master/0148-sort-list) |
 | [0875-longest-mountain-in-array](https://github.com/prankas/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/prankas/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/prankas/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/prankas/Leetcode/tree/master/0148-sort-list) |
 | [0324-wiggle-sort-ii](https://github.com/prankas/Leetcode/tree/master/0324-wiggle-sort-ii) |
 ## Quickselect
 |  |
@@ -343,4 +346,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/prankas/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/prankas/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0148-sort-list](https://github.com/prankas/Leetcode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/prankas/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
