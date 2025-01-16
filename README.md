@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/prankas/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/prankas/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2232-adding-spaces-to-a-string](https://github.com/prankas/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/prankas/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prankas/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/prankas/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/prankas/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/prankas/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/prankas/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/prankas/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/prankas/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/prankas/Leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Rolling Hash
@@ -330,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0721-accounts-merge](https://github.com/prankas/Leetcode/tree/master/0721-accounts-merge) |
 | [0854-making-a-large-island](https://github.com/prankas/Leetcode/tree/master/0854-making-a-large-island) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/prankas/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
