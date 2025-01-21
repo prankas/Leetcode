@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/prankas/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/prankas/Leetcode/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/prankas/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1527-number-of-ways-to-paint-n-3-grid](https://github.com/prankas/Leetcode/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/prankas/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/prankas/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2562-count-ways-to-build-good-strings](https://github.com/prankas/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
