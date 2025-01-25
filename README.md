@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/prankas/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0068-text-justification](https://github.com/prankas/Leetcode/tree/master/0068-text-justification) |
 | [0187-repeated-dna-sequences](https://github.com/prankas/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0299-bulls-and-cows](https://github.com/prankas/Leetcode/tree/master/0299-bulls-and-cows) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/prankas/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/prankas/Leetcode/tree/master/0036-valid-sudoku) |
 | [0138-copy-list-with-random-pointer](https://github.com/prankas/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0187-repeated-dna-sequences](https://github.com/prankas/Leetcode/tree/master/0187-repeated-dna-sequences) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/prankas/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0187-repeated-dna-sequences](https://github.com/prankas/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/prankas/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1733-maximum-number-of-visible-points](https://github.com/prankas/Leetcode/tree/master/1733-maximum-number-of-visible-points) |
