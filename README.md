@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3235-minimum-cost-to-convert-string-i](https://github.com/prankas/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/prankas/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3556-final-array-state-after-k-multiplication-operations-ii](https://github.com/prankas/Leetcode/tree/master/3556-final-array-state-after-k-multiplication-operations-ii) |
+| [3563-select-cells-in-grid-with-maximum-score](https://github.com/prankas/Leetcode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 | [3639-zero-array-transformation-i](https://github.com/prankas/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/prankas/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/prankas/Leetcode/tree/master/3647-zero-array-transformation-iii) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/prankas/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2562-count-ways-to-build-good-strings](https://github.com/prankas/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/prankas/Leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
+| [3563-select-cells-in-grid-with-maximum-score](https://github.com/prankas/Leetcode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Counting
 |  |
 | ------- |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/prankas/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/prankas/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/prankas/Leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
+| [3563-select-cells-in-grid-with-maximum-score](https://github.com/prankas/Leetcode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/prankas/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [3563-select-cells-in-grid-with-maximum-score](https://github.com/prankas/Leetcode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -349,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/prankas/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0854-making-a-large-island](https://github.com/prankas/Leetcode/tree/master/0854-making-a-large-island) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/prankas/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [3563-select-cells-in-grid-with-maximum-score](https://github.com/prankas/Leetcode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Memoization
 |  |
 | ------- |
