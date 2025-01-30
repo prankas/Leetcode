@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/prankas/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/prankas/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/prankas/Leetcode/tree/master/3647-zero-array-transformation-iii) |
+| [3687-longest-special-path](https://github.com/prankas/Leetcode/tree/master/3687-longest-special-path) |
 ## Binary Search
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/prankas/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/prankas/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/prankas/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3687-longest-special-path](https://github.com/prankas/Leetcode/tree/master/3687-longest-special-path) |
 ## Tree
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/prankas/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/prankas/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/prankas/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3687-longest-special-path](https://github.com/prankas/Leetcode/tree/master/3687-longest-special-path) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/prankas/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/prankas/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/prankas/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3687-longest-special-path](https://github.com/prankas/Leetcode/tree/master/3687-longest-special-path) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/prankas/Leetcode/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Breadth-First Search
 |  |
@@ -211,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1733-maximum-number-of-visible-points](https://github.com/prankas/Leetcode/tree/master/1733-maximum-number-of-visible-points) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prankas/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/prankas/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3687-longest-special-path](https://github.com/prankas/Leetcode/tree/master/3687-longest-special-path) |
 ## Math
 |  |
 | ------- |
