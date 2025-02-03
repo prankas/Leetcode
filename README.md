@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/prankas/Leetcode/tree/master/0036-valid-sudoku) |
 | [0068-text-justification](https://github.com/prankas/Leetcode/tree/master/0068-text-justification) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/prankas/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0221-maximal-square](https://github.com/prankas/Leetcode/tree/master/0221-maximal-square) |
 | [0324-wiggle-sort-ii](https://github.com/prankas/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0354-russian-doll-envelopes](https://github.com/prankas/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/prankas/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/prankas/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0097-interleaving-string](https://github.com/prankas/Leetcode/tree/master/0097-interleaving-string) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/prankas/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0221-maximal-square](https://github.com/prankas/Leetcode/tree/master/0221-maximal-square) |
 | [0354-russian-doll-envelopes](https://github.com/prankas/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0494-target-sum](https://github.com/prankas/Leetcode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/prankas/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/prankas/Leetcode/tree/master/0036-valid-sudoku) |
+| [0221-maximal-square](https://github.com/prankas/Leetcode/tree/master/0221-maximal-square) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/prankas/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0854-making-a-large-island](https://github.com/prankas/Leetcode/tree/master/0854-making-a-large-island) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/prankas/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
