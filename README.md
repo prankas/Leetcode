@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/prankas/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prankas/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0494-target-sum](https://github.com/prankas/Leetcode/tree/master/0494-target-sum) |
+| [0502-ipo](https://github.com/prankas/Leetcode/tree/master/0502-ipo) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/prankas/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0721-accounts-merge](https://github.com/prankas/Leetcode/tree/master/0721-accounts-merge) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/prankas/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/prankas/Leetcode/tree/master/0324-wiggle-sort-ii) |
+| [0502-ipo](https://github.com/prankas/Leetcode/tree/master/0502-ipo) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/prankas/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/prankas/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1095-two-city-scheduling](https://github.com/prankas/Leetcode/tree/master/1095-two-city-scheduling) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/prankas/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0354-russian-doll-envelopes](https://github.com/prankas/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/prankas/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0502-ipo](https://github.com/prankas/Leetcode/tree/master/0502-ipo) |
 | [0721-accounts-merge](https://github.com/prankas/Leetcode/tree/master/0721-accounts-merge) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/prankas/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/prankas/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0502-ipo](https://github.com/prankas/Leetcode/tree/master/0502-ipo) |
 | [0744-network-delay-time](https://github.com/prankas/Leetcode/tree/master/0744-network-delay-time) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/prankas/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/prankas/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
