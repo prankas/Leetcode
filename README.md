@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/prankas/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0148-sort-list](https://github.com/prankas/Leetcode/tree/master/0148-sort-list) |
 | [0875-longest-mountain-in-array](https://github.com/prankas/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/prankas/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/prankas/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/prankas/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/prankas/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0068-text-justification](https://github.com/prankas/Leetcode/tree/master/0068-text-justification) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/prankas/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/prankas/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0097-interleaving-string](https://github.com/prankas/Leetcode/tree/master/0097-interleaving-string) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/prankas/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
