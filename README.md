@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/prankas/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0148-sort-list](https://github.com/prankas/Leetcode/tree/master/0148-sort-list) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/prankas/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0875-longest-mountain-in-array](https://github.com/prankas/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/prankas/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/prankas/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/prankas/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0187-repeated-dna-sequences](https://github.com/prankas/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0299-bulls-and-cows](https://github.com/prankas/Leetcode/tree/master/0299-bulls-and-cows) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/prankas/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/prankas/Leetcode/tree/master/0721-accounts-merge) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/prankas/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0952-word-subsets](https://github.com/prankas/Leetcode/tree/master/0952-word-subsets) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/prankas/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/prankas/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/prankas/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/prankas/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/prankas/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/prankas/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/prankas/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/prankas/Leetcode/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/prankas/Leetcode/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/prankas/Leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -208,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/prankas/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/prankas/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/prankas/Leetcode/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/prankas/Leetcode/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/prankas/Leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -222,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/prankas/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/prankas/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/prankas/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/prankas/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Sliding Window
@@ -422,4 +428,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/prankas/Leetcode/tree/master/2434-design-a-number-container-system) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/prankas/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
