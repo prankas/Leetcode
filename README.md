@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/prankas/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/prankas/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3687-longest-special-path](https://github.com/prankas/Leetcode/tree/master/3687-longest-special-path) |
+| [3791-fruits-into-baskets-iii](https://github.com/prankas/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/prankas/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3643-zero-array-transformation-ii](https://github.com/prankas/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/prankas/Leetcode/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
+| [3791-fruits-into-baskets-iii](https://github.com/prankas/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/prankas/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0914-random-point-in-non-overlapping-rectangles](https://github.com/prankas/Leetcode/tree/master/0914-random-point-in-non-overlapping-rectangles) |
 | [2434-design-a-number-container-system](https://github.com/prankas/Leetcode/tree/master/2434-design-a-number-container-system) |
+| [3791-fruits-into-baskets-iii](https://github.com/prankas/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Randomized
 |  |
 | ------- |
@@ -436,4 +439,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prankas/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Segment Tree
+|  |
+| ------- |
+| [3791-fruits-into-baskets-iii](https://github.com/prankas/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->
