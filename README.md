@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/prankas/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/prankas/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3647-zero-array-transformation-iii](https://github.com/prankas/Leetcode/tree/master/3647-zero-array-transformation-iii) |
+| [3770-lexicographically-smallest-generated-string](https://github.com/prankas/Leetcode/tree/master/3770-lexicographically-smallest-generated-string) |
 ## Sorting
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/prankas/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/prankas/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/prankas/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3770-lexicographically-smallest-generated-string](https://github.com/prankas/Leetcode/tree/master/3770-lexicographically-smallest-generated-string) |
 ## Simulation
 |  |
 | ------- |
@@ -443,4 +445,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3791-fruits-into-baskets-iii](https://github.com/prankas/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
+## String Matching
+|  |
+| ------- |
+| [3770-lexicographically-smallest-generated-string](https://github.com/prankas/Leetcode/tree/master/3770-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
