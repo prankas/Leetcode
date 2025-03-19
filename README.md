@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/prankas/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1389-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/prankas/Leetcode/tree/master/1389-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/prankas/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1659-get-the-maximum-score](https://github.com/prankas/Leetcode/tree/master/1659-get-the-maximum-score) |
 | [1717-minimum-cost-to-connect-two-groups-of-points](https://github.com/prankas/Leetcode/tree/master/1717-minimum-cost-to-connect-two-groups-of-points) |
 | [1733-maximum-number-of-visible-points](https://github.com/prankas/Leetcode/tree/master/1733-maximum-number-of-visible-points) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/prankas/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/prankas/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/prankas/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1095-two-city-scheduling](https://github.com/prankas/Leetcode/tree/master/1095-two-city-scheduling) |
+| [1659-get-the-maximum-score](https://github.com/prankas/Leetcode/tree/master/1659-get-the-maximum-score) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/prankas/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/prankas/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/prankas/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/prankas/Leetcode/tree/master/0148-sort-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prankas/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0875-longest-mountain-in-array](https://github.com/prankas/Leetcode/tree/master/0875-longest-mountain-in-array) |
+| [1659-get-the-maximum-score](https://github.com/prankas/Leetcode/tree/master/1659-get-the-maximum-score) |
 | [2232-adding-spaces-to-a-string](https://github.com/prankas/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/prankas/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/prankas/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/prankas/Leetcode/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/prankas/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/prankas/Leetcode/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
+| [1659-get-the-maximum-score](https://github.com/prankas/Leetcode/tree/master/1659-get-the-maximum-score) |
 | [1717-minimum-cost-to-connect-two-groups-of-points](https://github.com/prankas/Leetcode/tree/master/1717-minimum-cost-to-connect-two-groups-of-points) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/prankas/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/prankas/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
