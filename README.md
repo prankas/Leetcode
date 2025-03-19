@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/prankas/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1389-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/prankas/Leetcode/tree/master/1389-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/prankas/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1717-minimum-cost-to-connect-two-groups-of-points](https://github.com/prankas/Leetcode/tree/master/1717-minimum-cost-to-connect-two-groups-of-points) |
 | [1733-maximum-number-of-visible-points](https://github.com/prankas/Leetcode/tree/master/1733-maximum-number-of-visible-points) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/prankas/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/prankas/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/prankas/Leetcode/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/prankas/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/prankas/Leetcode/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
+| [1717-minimum-cost-to-connect-two-groups-of-points](https://github.com/prankas/Leetcode/tree/master/1717-minimum-cost-to-connect-two-groups-of-points) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/prankas/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/prankas/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2562-count-ways-to-build-good-strings](https://github.com/prankas/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/prankas/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [1717-minimum-cost-to-connect-two-groups-of-points](https://github.com/prankas/Leetcode/tree/master/1717-minimum-cost-to-connect-two-groups-of-points) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/prankas/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2478-longest-nice-subarray](https://github.com/prankas/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/prankas/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [1717-minimum-cost-to-connect-two-groups-of-points](https://github.com/prankas/Leetcode/tree/master/1717-minimum-cost-to-connect-two-groups-of-points) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/prankas/Leetcode/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/prankas/Leetcode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Divide and Conquer
@@ -403,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/prankas/Leetcode/tree/master/0854-making-a-large-island) |
 | [1389-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/prankas/Leetcode/tree/master/1389-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/prankas/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1717-minimum-cost-to-connect-two-groups-of-points](https://github.com/prankas/Leetcode/tree/master/1717-minimum-cost-to-connect-two-groups-of-points) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/prankas/Leetcode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Memoization
 |  |
