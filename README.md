@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/prankas/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/prankas/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/prankas/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/prankas/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/prankas/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/prankas/Leetcode/tree/master/3429-special-array-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/prankas/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/prankas/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/prankas/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/prankas/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/prankas/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/prankas/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/prankas/Leetcode/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Shortest Path
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/prankas/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/prankas/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/prankas/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/prankas/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/prankas/Leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/prankas/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/prankas/Leetcode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0721-accounts-merge](https://github.com/prankas/Leetcode/tree/master/0721-accounts-merge) |
 | [0854-making-a-large-island](https://github.com/prankas/Leetcode/tree/master/0854-making-a-large-island) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/prankas/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Brainteaser
 |  |
 | ------- |
