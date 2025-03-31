@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/prankas/Leetcode/tree/master/0721-accounts-merge) |
 | [0952-word-subsets](https://github.com/prankas/Leetcode/tree/master/0952-word-subsets) |
 | [1197-parsing-a-boolean-expression](https://github.com/prankas/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
+| [1508-longest-happy-prefix](https://github.com/prankas/Leetcode/tree/master/1508-longest-happy-prefix) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/prankas/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/prankas/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/prankas/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -387,10 +388,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/prankas/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [1508-longest-happy-prefix](https://github.com/prankas/Leetcode/tree/master/1508-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/prankas/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [1508-longest-happy-prefix](https://github.com/prankas/Leetcode/tree/master/1508-longest-happy-prefix) |
 ## Bitmask
 |  |
 | ------- |
@@ -469,5 +472,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [1508-longest-happy-prefix](https://github.com/prankas/Leetcode/tree/master/1508-longest-happy-prefix) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/prankas/Leetcode/tree/master/3770-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
