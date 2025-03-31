@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/prankas/Leetcode/tree/master/0502-ipo) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/prankas/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/prankas/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/prankas/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1095-two-city-scheduling](https://github.com/prankas/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1659-get-the-maximum-score](https://github.com/prankas/Leetcode/tree/master/1659-get-the-maximum-score) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/prankas/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/prankas/Leetcode/tree/master/0394-decode-string) |
 | [0721-accounts-merge](https://github.com/prankas/Leetcode/tree/master/0721-accounts-merge) |
 | [0952-word-subsets](https://github.com/prankas/Leetcode/tree/master/0952-word-subsets) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/prankas/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/prankas/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1508-longest-happy-prefix](https://github.com/prankas/Leetcode/tree/master/1508-longest-happy-prefix) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/prankas/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/prankas/Leetcode/tree/master/0394-decode-string) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/prankas/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/prankas/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/prankas/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/prankas/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/prankas/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Monotonic Stack
