@@ -477,4 +477,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/prankas/Leetcode/tree/master/1508-longest-happy-prefix) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/prankas/Leetcode/tree/master/3770-lexicographically-smallest-generated-string) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/prankas/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
