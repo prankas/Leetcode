@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/prankas/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/prankas/Leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/prankas/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3701-minimum-cost-good-caption](https://github.com/prankas/Leetcode/tree/master/3701-minimum-cost-good-caption) |
 | [3770-lexicographically-smallest-generated-string](https://github.com/prankas/Leetcode/tree/master/3770-lexicographically-smallest-generated-string) |
 ## Simulation
 |  |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2562-count-ways-to-build-good-strings](https://github.com/prankas/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/prankas/Leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/prankas/Leetcode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
+| [3701-minimum-cost-good-caption](https://github.com/prankas/Leetcode/tree/master/3701-minimum-cost-good-caption) |
 ## Counting
 |  |
 | ------- |
