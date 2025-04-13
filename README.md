@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1733-maximum-number-of-visible-points](https://github.com/prankas/Leetcode/tree/master/1733-maximum-number-of-visible-points) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/prankas/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/prankas/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2050-count-good-numbers](https://github.com/prankas/Leetcode/tree/master/2050-count-good-numbers) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/prankas/Leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/prankas/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Graph
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/prankas/Leetcode/tree/master/0394-decode-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/prankas/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/prankas/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2050-count-good-numbers](https://github.com/prankas/Leetcode/tree/master/2050-count-good-numbers) |
 ## Queue
 |  |
 | ------- |
